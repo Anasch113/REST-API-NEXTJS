@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.2",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
